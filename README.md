@@ -65,7 +65,9 @@ Currently looking for **Frontend or Full-Stack Developer internship/entry-level 
 
 ### 💰 CrowdFundHub — Crowdfunding Platform
 A full-stack MERN crowdfunding platform with Firebase authentication, Stripe payment integration, and role-based dashboards for Supporter, Creator, and Admin. Features MongoDB aggregation pipelines for campaign analytics, Nodemailer for email notifications, and imgBB for image hosting.
-Stack: MongoDB · Express · React · Node.js · Firebase · Stripe
+
+**Stack:** MongoDB · Express · React · Node.js · Firebase · Stripe
+
 `[Live Link]`(https://crowd-fund-hub-client.vercel.app) &nbsp;•&nbsp; `[Live Server]`(https://crowd-fund-hub-server.vercel.app) &nbsp;•&nbsp; `[Client Repo]`(https://github.com/fahim3101/CrowdFundHub-client) &nbsp;•&nbsp; `[Server Repo]`(https://github.com/fahim3101/CrowdFundHub-server)
 
 ---
