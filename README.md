@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a Computer Science / IT student based in Dhaka, Bangladesh, focused on building **full-stack web applications** that actually get deployed and used — not just tutorial projects. I enjoy taking a product from a blank repo to a live, working deployment, and I care about the details that break in production (auth edge cases, DNS/hosting quirks, crashed routes) as much as the parts that are easy to demo.
+I'm a Computer Science student at Bangladesh University of Professionals (BUP) based in Dhaka, Bangladesh, focused on building **full-stack web applications** that actually get deployed and used — not just tutorial projects. I enjoy taking a product from a blank repo to a live, working deployment, and I care about the details that break in production (auth edge cases, DNS/hosting quirks, crashed routes) as much as the parts that are easy to demo.
 
 Currently looking for **Frontend or Full-Stack Developer internship/entry-level opportunities** where I can contribute to real products and keep leveling up.
 
@@ -63,39 +63,40 @@ Currently looking for **Frontend or Full-Stack Developer internship/entry-level 
 
 ## Featured projects
 
+### 💰 CrowdFundHub — Crowdfunding Platform
+A full-stack MERN crowdfunding platform with Firebase authentication, Stripe payment integration, and role-based dashboards for Supporter, Creator, and Admin. Features MongoDB aggregation pipelines for campaign analytics, Nodemailer for email notifications, and imgBB for image hosting.
+Stack: MongoDB · Express · React · Node.js · Firebase · Stripe
+`[Live Link]`(https://crowd-fund-hub-client.vercel.app) &nbsp;•&nbsp; `[Live Server]`(https://crowd-fund-hub-server.vercel.app) &nbsp;•&nbsp; `[Client Repo]`(https://github.com/fahim3101/CrowdFundHub-client) &nbsp;•&nbsp; `[Server Repo]`(https://github.com/fahim3101/CrowdFundHub-server)
+
+---
+
+
 ### 📚 BoiBazaar — Used Textbook Exchange Platform
 A full-stack platform where students can buy, sell, and exchange used textbooks. Built to practice production-grade patterns: server-side rendering, secure auth, and a real database schema.
 
 **Stack:** Next.js 14 · Express · MongoDB · Firebase Auth · TypeScript
 
-`https://boibazaar-client.vercel.app/` &nbsp;•&nbsp; `https://github.com/fahim3101/boibazaar-client•https://github.com/fahim3101/boibazaar-server`
+`[Live Link]`(https://boibazaar-client.vercel.app ) &nbsp;•&nbsp; `[Live Server]`(https://boibazaar-server.vercel.app ) &nbsp;•&nbsp; `[Client Repo]`(https://github.com/fahim3101/boibazaar-client) &nbsp;•&nbsp; `[Server Repo]`(https://github.com/fahim3101/boibazaar-server)
 
 ---
+
 
 ### 🩸 Lifeline — Blood Donation Platform
 A MERN-stack platform connecting blood donors with recipients, built as a job-application skills assessment. Solved real deployment challenges including MongoDB SRV DNS resolution failures, Vercel cold-start routing, and async Express error handling.
 
 **Stack:** MongoDB · Express · React · Node.js
 
-`[Live Client]` &nbsp;•&nbsp; `[Live Server]` &nbsp;•&nbsp; `[Client Repo]` &nbsp;•&nbsp; `[Server Repo]`
+`[Live Link]`(https://blood-donation-client-indol.vercel.app) &nbsp;•&nbsp; `[Live Server]`(https://blood-donation-server-brown-eight.vercel.app) &nbsp;•&nbsp; `[Client Repo]`(https://github.com/fahim3101/blood-donation-client) &nbsp;•&nbsp; `[Server Repo]`(https://github.com/fahim3101/blood-donation-server)
 
 ---
+
 
 ### 🚗 DriveFleet — Car Rental Platform
 A full-stack car rental application with real-time booking flow, deployed as separate client and server services.
 
 **Stack:** React (Vite) · Firebase · Node.js · Express · MongoDB
 
-`[Live Client]` &nbsp;•&nbsp; `[Live Server]` &nbsp;•&nbsp; `[GitHub Repo]`
-
----
-
-### 🎫 QueueStorm Investigator — AI-Powered Support Ticket Analyzer
-An AI-powered backend API that analyzes customer support tickets to surface patterns and insights, built during a hackathon preliminary round.
-
-**Stack:** Node.js · Express · AI/LLM integration
-
-`[GitHub Repo]`
+`[Live Link]`(https://drivefleet-client.vercel.app) &nbsp;•&nbsp; `[Live Server]`(drivefleet-server-orpin.vercel.app) &nbsp;•&nbsp; `[Client Repo]`(https://github.com/fahim3101/drivefleet-client) &nbsp;•&nbsp; `[Server Repo]`(https://github.com/fahim3101/drivefleet-server)
 
 <br/>
 
