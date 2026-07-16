@@ -102,7 +102,7 @@ A full-stack car rental application with real-time booking flow, deployed as sep
 
 <br/>
 
-> 📌 **Pinned repositories are above** — check my [pinned projects](https://github.com/fahim3101?tab=repositories) for the full picture.
+> 📌 **Pinned repositories are shown above on my profile** — visit [github.com/fahim3101](https://github.com/fahim3101) to see all pinned projects, or browse my [full repository list](https://github.com/fahim3101?tab=repositories).
 
 <br/>
 
