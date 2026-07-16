@@ -68,7 +68,7 @@ A full-stack platform where students can buy, sell, and exchange used textbooks.
 
 **Stack:** Next.js 14 · Express · MongoDB · Firebase Auth · TypeScript
 
-`[Live Demo]` &nbsp;•&nbsp; `[GitHub Repo]`
+`https://boibazaar-client.vercel.app/` &nbsp;•&nbsp; `https://github.com/fahim3101/boibazaar-client•https://github.com/fahim3101/boibazaar-server`
 
 ---
 
