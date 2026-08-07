@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%26+Next.js);Turning+ideas+into+deployed%2C+working+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%26+Next.js);Turning+ideas+into+deployed,+working+products" alt="Typing SVG" />
 </a>
 
 <p>
