@@ -108,14 +108,17 @@ A full-stack car rental application with real-time booking flow, deployed as sep
 
 ## GitHub stats
 
+
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=fahim3101&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://streak-stats.vercel.app/?user=fahim3101&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fahim3101&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fahim3101&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=fahim3101&theme=tokyonight&hide_border=true" width="49%" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fahim3101&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 
 </div>
+
 
 <br/>
 
