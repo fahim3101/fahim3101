@@ -11,7 +11,7 @@
 <p>
   <a href="https://linkedin.com/in/fahim-rana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:fahimrana3101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/fahim3101"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/fahim3101"><img src="https://img.shieldsields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -29,9 +29,9 @@ I'm looking for **Frontend or Full-Stack Developer internship and entry-level op
 
 ## Tech stack
 
-**Languages & frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS  
-**Backend & database:** Node.js · Express · MongoDB · Firebase  
-**Tools:** Git · Vercel · Postman · VS Code
+**Languages & frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML · CSS  
+**Backend & AI:** Node.js · Express · FastAPI · LangGraph · MongoDB · FAISS  
+**Tools:** Git · Docker · Vercel · Render · Postman · VS Code
 
 ## Featured projects
 
@@ -48,6 +48,15 @@ A full-stack platform for students to buy, sell, and exchange used textbooks, bu
 
 **Stack:** Next.js 14 · Express · MongoDB · Firebase Auth · TypeScript  
 [Live app](https://boibazaar-client.vercel.app) · [Live server](https://boibazaar-server.vercel.app) · [Client repository](https://github.com/fahim3101/boibazaar-client) · [Server repository](https://github.com/fahim3101/boibazaar-server)
+
+---
+
+### 🤖 [Enterprise IT Support — Agentic RAG Copilot](https://github.com/fahim3101/Helpdesk-Agentic-RAG)
+An enterprise-style IT support copilot that combines private knowledge retrieval, agentic decision-making, grounded answer generation, and web fallback for unanswered questions.
+
+**Stack:** LangGraph · Gemini · Groq · FastAPI · FAISS · SQLite · Docker  
+**Key capabilities:** private document ingestion · evidence grading · query rewriting · source-aware answers · RAG evaluation · audit logging  
+[Live demo](https://it-support-agentic-rag.onrender.com) · [Repository](https://github.com/fahim3101/Helpdesk-Agentic-RAG)
 
 ---
 
